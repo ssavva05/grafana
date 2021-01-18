@@ -23,6 +23,9 @@ vendor/
 # Enterprise devenv
 /devenv/docker/blocks/grafana-enterprise
 
+# Enterprise reporting fonts
+public/fonts/DejaVu*
+
 /tmp
 tools/phantomjs/phantomjs
 tools/phantomjs/phantomjs.exe
